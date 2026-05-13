@@ -10,7 +10,7 @@
     <meta name="keywords" content="신촌 셔츠룸, 신촌 에이스, 신촌역 셔츠룸, 신촌 에이스 셔츠룸 가격, 신촌 술집 추천">
     <link rel="canonical" href="https://sinchonshirttop.clickn.co.kr/">
 
-    <!-- SNS 공유용 설정 (카톡/페이스북 등) -->
+    <!-- SNS 공유용 설정 -->
     <meta property="og:title" content="신촌 에이스 셔츠룸 공식 안내">
     <meta property="og:description" content="신촌역 도보 3분! 에이스 셔츠룸의 실시간 예약 및 가격 정보를 확인하세요.">
     <meta property="og:url" content="https://sinchonshirttop.clickn.co.kr/">
@@ -23,9 +23,9 @@
         p { font-size: 16px; color: #666; }
         .btn-group { margin-top: 30px; display: flex; flex-direction: column; gap: 15px; }
         .btn { display: block; padding: 15px; text-decoration: none; border-radius: 8px; font-weight: bold; transition: 0.3s; }
-        .btn-main { background-color: #d4af37; color: #fff; font-size: 18px; } /* 메인 사이트 */
-        .btn-google { background-color: #4285F4; color: #fff; } /* 구글사이트용 */
-        .btn-notion { background-color: #000; color: #fff; } /* 노션용 */
+        .btn-main { background-color: #d4af37; color: #fff; font-size: 18px; }
+        .btn-google { background-color: #4285F4; color: #fff; }
+        .btn-notion { background-color: #000; color: #fff; }
         .btn:hover { opacity: 0.8; transform: translateY(-2px); }
         .footer { margin-top: 50px; font-size: 12px; color: #aaa; }
         ul { list-style: none; padding: 0; }
@@ -42,11 +42,11 @@
         <!-- 1. 메인 홈페이지 링크 -->
         <a href="https://sinchonshirttop.clickn.co.kr/" class="btn btn-main">에이스 공식 홈페이지 바로가기</a>
 
-        <!-- 2. 구글 사이트 도구 링크 (업데이트 완료) -->
+        <!-- 2. 구글 사이트 도구 링크 -->
         <a href="https://sites.google.com/view/shinchon-ace/%ED%99%88" class="btn btn-google">공식 커뮤니티 (Google Sites)</a>
 
-        <!-- 3. 나중에 채워넣을 노션 링크 자리 -->
-        <a href="#" class="btn btn-notion" onclick="alert('노션 가이드는 현재 제작 중입니다. 공식 홈페이지를 이용해 주세요.'); return false;">에이스 이용 안내 (Notion)</a>
+        <!-- 3. 노션 페이지 링크 (업데이트 완료) -->
+        <a href="https://shirtroom.notion.site/35fb439160b380729cd3e5f4e6f5c537?source=copy_link" class="btn btn-notion" target="_blank">에이스 상세 이용 안내 (Notion)</a>
     </div>
 
     <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
