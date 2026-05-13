@@ -44,7 +44,7 @@
         <a href="#" class="btn btn-notion" onclick="alert('준비 중입니다.'); return false;">에이스 이용 안내 (Notion)</a>
 
         <!-- 3. 나중에 채워넣을 구글 사이트 도구 링크 자리 -->
-        <a href="#" class="btn btn-google" onclick="alert('준비 중입니다.'); return false;">공식 커뮤니티 (Google Sites)</a>
+        <a href="https://sites.google.com/view/shinchon-ace/%ED%99%88" class="btn btn-google">공식 커뮤니티 (Google Sites)</a>
     </div>
 
     <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
